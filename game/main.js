@@ -47,6 +47,3 @@ loadImage();
 main();
 
 
-
-aaaaaa
-bbbbbbb
